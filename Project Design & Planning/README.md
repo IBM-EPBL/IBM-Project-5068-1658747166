@@ -1,5 +1,6 @@
 
- Team Members:
+UNIVERSITY ADMIT ELIGIBILITY PREDICTOR
+Team Members:
      Team Leader  - Sona S
      Team Member1 - Shangeeth R
      Team member2 - Anika Lakshmi S
